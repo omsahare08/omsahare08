@@ -45,9 +45,7 @@ const om = {
 </div>
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=omsahare08&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffb2&icon_color=00ffb2&text_color=c9d1d9&count_private=true&rank_icon=github" />
-
-</div>
+<img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=omsahare08&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffb2&icon_color=00ffb2&text_color=c9d1d9&count_private=true" />
 
 ---
 
@@ -193,7 +191,6 @@ Customizable dark mode and font theme Chrome extension. Applies per-site prefere
 
 <!-- DSA SECTION -->
 ## `$ benchmark --dsa`
-
 ```
 Platform          Problems Solved     Status
 ─────────────────────────────────────────────
