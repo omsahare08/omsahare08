@@ -173,10 +173,6 @@ Customizable dark mode and font theme Chrome extension. Applies per-site prefere
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omsahare08&theme=react-dark&hide_border=true&area=true&area_color=00ffb2&line=00ffb2&point=ffffff&bg_color=0d1117" />
-
-<br/>
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omsahare08&theme=chartreuse_dark" />
 
 </div>
