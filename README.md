@@ -34,7 +34,7 @@ const om = {
   name      : "Om Sahare",
   role      : "Software Developer & Engineer",
   college   : "YCCE Nagpur — CSE (IoT) 2026",
-  languages : ["Java", "JavaScript","TypeScript"],
+  languages : ["Java", "JavaScript", "TypeScript"],
   frontend  : ["React", "React Native"],
   backend   : ["Node.js", "Express.js"],
   databases : ["MongoDB", "MySQL"],
