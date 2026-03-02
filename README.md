@@ -28,7 +28,7 @@
 ---
 
 <!-- IDENTITY CARD -->
-<div align="center">
+<!-- IDENTITY CARD -->
 ```js
 const om = {
   name      : "Om Sahare",
